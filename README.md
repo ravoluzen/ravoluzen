@@ -1,5 +1,6 @@
 ### Hey there, I am Raj! 🌻
-![gojo-satoru-jujutsu-kaisen](https://user-images.githubusercontent.com/56875618/155887288-9b41a17c-7078-4fdb-8cec-a21eb0da4527.gif)
+
+![gojo-satoru](https://user-images.githubusercontent.com/56875618/155888012-ad2bba8b-9608-47fd-871e-ffe35ea5f918.gif)
 
 _I'm a CS undergrad currently in my final year of college._ 👨‍🎓
 

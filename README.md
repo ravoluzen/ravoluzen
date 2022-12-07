@@ -1,8 +1,12 @@
-### Hola Amigo! 🌻
+### Hey! 🐲
 
-![gojo-satoru](https://user-images.githubusercontent.com/56875618/155888012-ad2bba8b-9608-47fd-871e-ffe35ea5f918.gif)
+your friendly, ambitious reactbender here!
+![zuko](https://tenor.com/5x2a.gif)
 
+exploring frontend and building with reactjs & tailwind.
+learning nextjs and typescript(also its and bits of backend :P).
+curiosity drives me, creativity pours into my work.
+![uncle iroh](https://tenor.com/FQQl.gif)
 
+worked and familiar with [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,redux,materialui,ts,nodejs,nextjs,vscode,styledcomponents,git,mongodb,firebase,vite)](https://skillicons.dev)
 **Looking for frontend full-time opportunities to learn and create an impact with my role!** 🤝
-
-When I'm not coding, I produce music, write and interact with people irl and on twitter! 🎹 ✍️ 🧑‍🤝‍🧑
